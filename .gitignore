@@ -170,3 +170,7 @@ instance/
 *.sqlite
 *.pyc
 .env
+include/
+lib/
+bin/
+pyvenv.cfg
